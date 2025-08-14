@@ -184,7 +184,7 @@
     position: relative;
     display: flex;
     flex-direction: row;
-    background: url(/image/shop2.jpg) center;
+    background: url(./image/shop2.jpg) center;
     background-size: contain;
     font-family: Arial, Helvetica, sans-serif;
     img {
@@ -235,7 +235,7 @@
     position: relative;
     padding: 10px;
 
-    background: url(/image/shoping2.jpg);
+    background: url(./image/shoping2.jpg);
 
     font-family: "Pacifico", cursive;
     h1 {
@@ -420,7 +420,7 @@
         bottom: 0;
         height: 72%;
         width: 100%;
-        background: url(/image/shop.jpg) center;
+        background: url(./image/shop.jpg) center;
         background-size: cover;
       }
       .search-box {

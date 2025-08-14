@@ -82,7 +82,7 @@ nav {
     height: 40px;
     width: 40px;
     border: 2px solid rgb(255, 117, 117);
-    background: url(/image/dog.jpg) center;
+    background: url(./image/dog.jpg) center;
     background-size: cover;
   }
 }
